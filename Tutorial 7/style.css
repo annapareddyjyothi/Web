@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+body {
+    text-align :center;
+}
+.heading{
+    color: Green;
+    font-family :'Fuggles',cursive;
+    font-size: 100px;
+    font-style: italic;
+    text-decoration: crimson underline;
+}
+.para { 
+    color:aqua;
+    font-family: 'Fira code',monospace;
+    font-size:50px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+}
